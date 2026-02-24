@@ -1,0 +1,14 @@
+C:\Users\labsfiap\Desktop\C-_software_dev\AppFluxo\bin\Debug\net9.0\AppFluxo.exe
+C:\Users\labsfiap\Desktop\C-_software_dev\AppFluxo\bin\Debug\net9.0\AppFluxo.deps.json
+C:\Users\labsfiap\Desktop\C-_software_dev\AppFluxo\bin\Debug\net9.0\AppFluxo.runtimeconfig.json
+C:\Users\labsfiap\Desktop\C-_software_dev\AppFluxo\bin\Debug\net9.0\AppFluxo.dll
+C:\Users\labsfiap\Desktop\C-_software_dev\AppFluxo\bin\Debug\net9.0\AppFluxo.pdb
+C:\Users\labsfiap\Desktop\C-_software_dev\AppFluxo\obj\Debug\net9.0\AppFluxo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labsfiap\Desktop\C-_software_dev\AppFluxo\obj\Debug\net9.0\AppFluxo.AssemblyInfoInputs.cache
+C:\Users\labsfiap\Desktop\C-_software_dev\AppFluxo\obj\Debug\net9.0\AppFluxo.AssemblyInfo.cs
+C:\Users\labsfiap\Desktop\C-_software_dev\AppFluxo\obj\Debug\net9.0\AppFluxo.csproj.CoreCompileInputs.cache
+C:\Users\labsfiap\Desktop\C-_software_dev\AppFluxo\obj\Debug\net9.0\AppFluxo.dll
+C:\Users\labsfiap\Desktop\C-_software_dev\AppFluxo\obj\Debug\net9.0\refint\AppFluxo.dll
+C:\Users\labsfiap\Desktop\C-_software_dev\AppFluxo\obj\Debug\net9.0\AppFluxo.pdb
+C:\Users\labsfiap\Desktop\C-_software_dev\AppFluxo\obj\Debug\net9.0\AppFluxo.genruntimeconfig.cache
+C:\Users\labsfiap\Desktop\C-_software_dev\AppFluxo\obj\Debug\net9.0\ref\AppFluxo.dll
